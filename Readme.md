@@ -8,6 +8,7 @@ This project aims to let you code in a familiar unix-like environment while you'
 - vim
 - git
 - aws-cli
+- ssh
 
 ## Perks
 
